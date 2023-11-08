@@ -1,0 +1,16 @@
+{
+    "name": "AsterMC Network",
+    "short_name": "AsterMC Network",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00ffff",
+    "description": "Applicazione ufficiale di SpryMC.",
+    "icons": [
+      {
+        "src": "/src/images/logo-lq.png",
+        "sizes": "456x456",
+        "type": "image/png"
+      }
+    ]
+  }
+  
